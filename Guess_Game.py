@@ -14,7 +14,7 @@ while True:
     print('\n')
         
     if guess<1 or guess>100:
-        print('OUT OF BOUNDS! Please try again: ')
+        print('OUT OF BOUNDS! Coba LAgi: ')
         guess = int(input("What's your guess?? " ))
         continue
     
